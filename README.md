@@ -34,3 +34,6 @@ https://www.youtube.com/watch?v=kVaBDpwgsGg&list=PLqtXapA2WDqbE6ghoiEJIrmEnndQ7o
  util.py 파일에서 load를 수정하면 다른 cheakpoint로 이동 가능 (ex -1 -> -2 이런식으로 index를 수정) 단, 현재는 다 지우고 1000 epoch만 남겨둠
 
 - 결과 파일 일단은 results/numpy 폴더에 저장되어 있음
+
+
+만약 이 파일의 보고서를 확인하고 싶으시면 아래 링크에서 확인해주세요
