@@ -1,3 +1,0 @@
-cheapoint_256 filter=lfs diff=lfs merge=lfs -text
-cheakpoint_256 filter=lfs diff=lfs merge=lfs -text
-cheakpoint_512 filter=lfs diff=lfs merge=lfs -text
