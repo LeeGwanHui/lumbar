@@ -1,0 +1,7 @@
+여기에는 input 데이터를 dcm file을 raw 데이터만 뽑아 npy 파일로 바꾸어 저장된 장소 입니다.
+또한 label 데이터 역시 mat file에서 뽑아 npy로 바꾸어 주었습니다.
+여기 있던 파일 형태
+input_000.npy
+label_000.npy
+
+여기서는 학습한 것을 validation하는 데이터가 저장되어 있던 공간입니다.
